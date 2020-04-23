@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Chromium",
+        "command": "chromium-browser",
+        "args": []
+    },
+    {
+        "name": "Spotify",
+        "command": "spotify",
+        "args": []
+    },
+    {
+        "name": "Slack",
+        "command": "slack",
+        "args": []
+    },
+    {
+        "name": "Discord",
+        "command": "discord",
+        "args": []
+    }
+]
